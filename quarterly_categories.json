@@ -1,1 +1,22 @@
-{"version":0,"lastUpdated":"2026-05-14","chase_freedom_flex":null,"discover_it":null}
+{
+  "version": 1,
+  "lastUpdated": "2026-05-14",
+  "chase_freedom_flex": {
+    "year": 2026,
+    "quarters": {
+      "1": {"categories": ["Grocery", "Gas"]},
+      "2": {"categories": ["Amazon", "Travel"]},
+      "3": {"categories": ["Dining", "Streaming"]},
+      "4": {"categories": ["Gas", "Home Improv"]}
+    }
+  },
+  "discover_it": {
+    "year": 2026,
+    "quarters": {
+      "1": {"categories": ["Grocery", "Streaming"]},
+      "2": {"categories": ["Dining"]},
+      "3": {"categories": ["Gas", "Home Improv"]},
+      "4": {"categories": ["Amazon", "Grocery"]}
+    }
+  }
+}
