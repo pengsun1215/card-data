@@ -1,0 +1,311 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-05-14",
+  "cards": [
+    {
+      "id": "amex_gold",
+      "name": "Amex Gold",
+      "issuer": "American Express",
+      "network": "Amex",
+      "annualFee": 325,
+      "foreignTransactionFee": false,
+      "rewardRates": {
+        "Dining": 4, "Grocery": 4, "Amazon": 1, "Travel": 3,
+        "Gas": 1, "Streaming": 1, "Drugstore": 1, "Home Improv": 1, "Everything Else": 1
+      },
+      "rewardNotes": {
+        "Dining": "global", "Grocery": "US only", "Travel": "airline only"
+      },
+      "defaultPerks": [
+        {"name": "Uber Credit", "value": "$10/mo", "frequency": "Monthly"},
+        {"name": "Dining Credit (Grubhub, Cheesecake Factory, etc.)", "value": "$10/mo", "frequency": "Monthly"},
+        {"name": "Dunkin' Credit", "value": "$7/mo", "frequency": "Monthly"},
+        {"name": "Resy Dining Credit", "value": "$50/half", "frequency": "Semi-Annual"}
+      ],
+      "color": "#C5A236"
+    },
+    {
+      "id": "amex_platinum",
+      "name": "Amex Platinum",
+      "issuer": "American Express",
+      "network": "Amex",
+      "annualFee": 895,
+      "foreignTransactionFee": false,
+      "rewardRates": {
+        "Dining": 1, "Grocery": 1, "Amazon": 1, "Travel": 5,
+        "Gas": 1, "Streaming": 1, "Drugstore": 1, "Home Improv": 1, "Everything Else": 1
+      },
+      "rewardNotes": {
+        "Travel": "Airline, AmEx travel's airline and hotel"
+      },
+      "defaultPerks": [
+        {"name": "Uber Credit ($15/mo, $35 Dec)", "value": "$200/yr", "frequency": "Monthly"},
+        {"name": "Digital Entertainment Credit", "value": "$25/mo", "frequency": "Monthly"},
+        {"name": "Lululemon Credit", "value": "$75/qtr", "frequency": "Quarterly"},
+        {"name": "Resy Dining Credit", "value": "$100/qtr", "frequency": "Quarterly"},
+        {"name": "FHR / Hotel Collection Credit", "value": "$300/half", "frequency": "Semi-Annual"},
+        {"name": "Saks Fifth Avenue Credit", "value": "$50/half", "frequency": "Semi-Annual"},
+        {"name": "Airline Fee Credit", "value": "$200/yr", "frequency": "Card Annual"},
+        {"name": "Walmart+ Membership", "value": "$155/yr", "frequency": "Card Annual"},
+        {"name": "CLEAR Membership", "value": "$209/yr", "frequency": "Card Annual"},
+        {"name": "Equinox Credit", "value": "$300/yr", "frequency": "Card Annual"},
+        {"name": "Global Entry / TSA PreCheck", "value": "$120", "frequency": "One-Time"}
+      ],
+      "color": "#8C8C8C"
+    },
+    {
+      "id": "amex_business_platinum",
+      "name": "Amex Business Platinum",
+      "issuer": "American Express",
+      "network": "Amex",
+      "annualFee": 895,
+      "foreignTransactionFee": false,
+      "rewardRates": {
+        "Dining": 1, "Grocery": 1, "Amazon": 1, "Travel": 5,
+        "Gas": 1, "Streaming": 1, "Drugstore": 1, "Home Improv": 1, "Everything Else": 1
+      },
+      "rewardNotes": {
+        "Travel": "AmEx travel's airline and hotel"
+      },
+      "defaultPerks": [
+        {"name": "Wireless Telephone Credit", "value": "$10/mo", "frequency": "Monthly"},
+        {"name": "Hilton Credit (Hilton for Business)", "value": "$50/qtr", "frequency": "Quarterly"},
+        {"name": "Indeed Credit", "value": "$90/qtr", "frequency": "Quarterly"},
+        {"name": "FHR / Hotel Collection Credit", "value": "$300/half", "frequency": "Semi-Annual"},
+        {"name": "Airline Fee Credit", "value": "$200/yr", "frequency": "Card Annual"},
+        {"name": "Dell Credit", "value": "$150/yr", "frequency": "Card Annual"},
+        {"name": "Adobe Credit", "value": "$150/yr", "frequency": "Card Annual"},
+        {"name": "CLEAR Membership", "value": "$179/yr", "frequency": "Card Annual"},
+        {"name": "Global Entry / TSA PreCheck", "value": "$100", "frequency": "One-Time"}
+      ],
+      "color": "#707070"
+    },
+    {
+      "id": "amex_hilton_aspire",
+      "name": "Hilton Aspire",
+      "issuer": "American Express",
+      "network": "Amex",
+      "annualFee": 550,
+      "foreignTransactionFee": false,
+      "rewardRates": {
+        "Dining": 7, "Grocery": 3, "Amazon": 3, "Travel": 14,
+        "Gas": 3, "Streaming": 3, "Drugstore": 3, "Home Improv": 3, "Everything Else": 3
+      },
+      "rewardNotes": {
+        "Travel": "Hilton 14x, car rental 7x, airline 7x"
+      },
+      "defaultPerks": [
+        {"name": "Airline Credit", "value": "$50/qtr", "frequency": "Quarterly"},
+        {"name": "Hilton Resort Credit", "value": "$200/half", "frequency": "Semi-Annual"},
+        {"name": "CLEAR Membership", "value": "$189/yr", "frequency": "Card Annual"},
+        {"name": "Free Night Certificate", "value": "1 night", "frequency": "Card Annual"},
+        {"name": "Free Night ($30k spend)", "value": "1 night", "frequency": "Card Annual"},
+        {"name": "Free Night ($60k spend)", "value": "1 night", "frequency": "Card Annual"}
+      ],
+      "color": "#1A1A2E"
+    },
+    {
+      "id": "amex_delta_gold",
+      "name": "Delta SkyMiles Gold",
+      "issuer": "American Express",
+      "network": "Amex",
+      "annualFee": 150,
+      "foreignTransactionFee": false,
+      "rewardRates": {
+        "Dining": 2, "Grocery": 2, "Amazon": 1, "Travel": 2,
+        "Gas": 1, "Streaming": 1, "Drugstore": 1, "Home Improv": 1, "Everything Else": 1
+      },
+      "rewardNotes": {"Travel": "Delta airline"},
+      "defaultPerks": [
+        {"name": "Delta Statement Credit ($10k spend)", "value": "$200", "frequency": "Card Annual"},
+        {"name": "Delta Stays Hotel Credit", "value": "$100", "frequency": "Card Annual"}
+      ],
+      "color": "#00274C"
+    },
+    {
+      "id": "amex_delta_gold_biz",
+      "name": "Delta SkyMiles Gold Business",
+      "issuer": "American Express",
+      "network": "Amex",
+      "annualFee": 150,
+      "foreignTransactionFee": false,
+      "rewardRates": {
+        "Dining": 1, "Grocery": 1, "Amazon": 1, "Travel": 2,
+        "Gas": 1, "Streaming": 1, "Drugstore": 1, "Home Improv": 1, "Everything Else": 1
+      },
+      "rewardNotes": {"Travel": "Delta airline"},
+      "defaultPerks": [
+        {"name": "Delta Statement Credit ($10k spend)", "value": "$200", "frequency": "Card Annual"},
+        {"name": "Delta Stays Hotel Credit", "value": "$150", "frequency": "Card Annual"}
+      ],
+      "color": "#003366"
+    },
+    {
+      "id": "amex_blue_business_plus",
+      "name": "Blue Business Plus",
+      "issuer": "American Express",
+      "network": "Amex",
+      "annualFee": 0,
+      "foreignTransactionFee": true,
+      "rewardRates": {
+        "Dining": 2, "Grocery": 2, "Amazon": 2, "Travel": 2,
+        "Gas": 2, "Streaming": 2, "Drugstore": 2, "Home Improv": 2, "Everything Else": 2
+      },
+      "rewardNotes": {},
+      "defaultPerks": [],
+      "color": "#006FCF"
+    },
+    {
+      "id": "chase_sapphire_preferred",
+      "name": "Sapphire Preferred",
+      "issuer": "Chase",
+      "network": "Visa",
+      "annualFee": 95,
+      "foreignTransactionFee": false,
+      "rewardRates": {
+        "Dining": 3, "Grocery": 3, "Amazon": 1, "Travel": 5,
+        "Gas": 1, "Streaming": 3, "Drugstore": 1, "Home Improv": 1, "Everything Else": 1
+      },
+      "rewardNotes": {
+        "Grocery": "online, except Target, Walmart, and wholesales",
+        "Travel": "Chase travel 5x, other travel 2x"
+      },
+      "defaultPerks": [
+        {"name": "Hotel Credit (Chase Travel)", "value": "$50/yr", "frequency": "Card Annual"}
+      ],
+      "color": "#003087"
+    },
+    {
+      "id": "chase_sapphire_reserve",
+      "name": "Sapphire Reserve",
+      "issuer": "Chase",
+      "network": "Visa",
+      "annualFee": 795,
+      "foreignTransactionFee": false,
+      "rewardRates": {
+        "Dining": 3, "Grocery": 1, "Amazon": 1, "Travel": 8,
+        "Gas": 1, "Streaming": 1, "Drugstore": 1, "Home Improv": 1, "Everything Else": 1
+      },
+      "rewardNotes": {"Travel": "Chase travel 8x, airline/hotel 4x"},
+      "defaultPerks": [
+        {"name": "DoorDash Credit + DashPass", "value": "$25/mo", "frequency": "Monthly"},
+        {"name": "Lyft Credit", "value": "$10/mo", "frequency": "Monthly"},
+        {"name": "Peloton Credit", "value": "$10/mo", "frequency": "Monthly"},
+        {"name": "The Edit Hotel Credit", "value": "$250/half", "frequency": "Semi-Annual"},
+        {"name": "CSR Exclusive Tables Dining", "value": "$150/half", "frequency": "Semi-Annual"},
+        {"name": "StubHub Entertainment Credit", "value": "$150/half", "frequency": "Semi-Annual"},
+        {"name": "Travel Credit", "value": "$300/yr", "frequency": "Card Annual"},
+        {"name": "Apple Services Credit", "value": "$250/yr", "frequency": "Card Annual"},
+        {"name": "Global Entry / TSA PreCheck", "value": "$120", "frequency": "One-Time"}
+      ],
+      "color": "#0A3D62"
+    },
+    {
+      "id": "chase_united_gateway",
+      "name": "United Gateway",
+      "issuer": "Chase",
+      "network": "Visa",
+      "annualFee": 0,
+      "foreignTransactionFee": false,
+      "rewardRates": {
+        "Dining": 1, "Grocery": 1, "Amazon": 1, "Travel": 2,
+        "Gas": 2, "Streaming": 1, "Drugstore": 1, "Home Improv": 1, "Everything Else": 1
+      },
+      "rewardNotes": {"Travel": "public transportation only", "Gas": "gas station"},
+      "defaultPerks": [],
+      "color": "#6B7B8D"
+    },
+    {
+      "id": "chase_ink_cash",
+      "name": "Ink Cash",
+      "issuer": "Chase",
+      "network": "Visa",
+      "annualFee": 0,
+      "foreignTransactionFee": true,
+      "rewardRates": {
+        "Dining": 2, "Grocery": 1, "Amazon": 1, "Travel": 1,
+        "Gas": 2, "Streaming": 1, "Drugstore": 1, "Home Improv": 1, "Everything Else": 1
+      },
+      "rewardNotes": {},
+      "defaultPerks": [],
+      "color": "#2C3E50"
+    },
+    {
+      "id": "chase_ink_unlimited",
+      "name": "Ink Unlimited",
+      "issuer": "Chase",
+      "network": "Visa",
+      "annualFee": 0,
+      "foreignTransactionFee": true,
+      "rewardRates": {
+        "Dining": 1.5, "Grocery": 1.5, "Amazon": 1.5, "Travel": 1.5,
+        "Gas": 1.5, "Streaming": 1.5, "Drugstore": 1.5, "Home Improv": 1.5, "Everything Else": 1.5
+      },
+      "rewardNotes": {},
+      "defaultPerks": [],
+      "color": "#1A2744"
+    },
+    {
+      "id": "chase_ink_preferred",
+      "name": "Ink Preferred",
+      "issuer": "Chase",
+      "network": "Visa",
+      "annualFee": 95,
+      "foreignTransactionFee": false,
+      "rewardRates": {
+        "Dining": 1, "Grocery": 1, "Amazon": 1, "Travel": 3,
+        "Gas": 1, "Streaming": 1, "Drugstore": 1, "Home Improv": 1, "Everything Else": 1
+      },
+      "rewardNotes": {"Travel": "travel, shipping, Internet, phone service"},
+      "defaultPerks": [],
+      "color": "#1C1C2E"
+    },
+    {
+      "id": "chase_freedom_flex",
+      "name": "Freedom Flex",
+      "issuer": "Chase",
+      "network": "Mastercard",
+      "annualFee": 0,
+      "foreignTransactionFee": true,
+      "rewardRates": {
+        "Dining": 3, "Grocery": 1, "Amazon": 1, "Travel": 1,
+        "Gas": 1, "Streaming": 1, "Drugstore": 3, "Home Improv": 1, "Everything Else": 1
+      },
+      "rewardNotes": {"Dining": "always 3x", "Drugstore": "always 3x"},
+      "defaultPerks": [],
+      "color": "#1A73E8"
+    },
+    {
+      "id": "discover_it",
+      "name": "Discover It",
+      "issuer": "Discover",
+      "network": "Discover",
+      "annualFee": 0,
+      "foreignTransactionFee": false,
+      "rewardRates": {
+        "Dining": 1, "Grocery": 1, "Amazon": 1, "Travel": 1,
+        "Gas": 1, "Streaming": 1, "Drugstore": 1, "Home Improv": 1, "Everything Else": 1
+      },
+      "rewardNotes": {},
+      "defaultPerks": [],
+      "color": "#FF6600"
+    },
+    {
+      "id": "bilt_mastercard",
+      "name": "Bilt Mastercard",
+      "issuer": "Wells Fargo",
+      "network": "Mastercard",
+      "annualFee": 0,
+      "foreignTransactionFee": false,
+      "rewardRates": {
+        "Dining": 3, "Grocery": 1, "Amazon": 1, "Travel": 2,
+        "Gas": 1, "Streaming": 1, "Drugstore": 1, "Home Improv": 1, "Everything Else": 1
+      },
+      "rewardNotes": {"Travel": "hotel, airline"},
+      "defaultPerks": [
+        {"name": "Rent Day 2x Bonus (1st of month)", "value": "Up to 1,000 pts", "frequency": "Monthly"}
+      ],
+      "color": "#000000"
+    }
+  ]
+}
