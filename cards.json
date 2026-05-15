@@ -10,8 +10,7 @@
       "annualFee": 325,
       "foreignTransactionFee": false,
       "rewardRates": {
-        "Dining": 4, "Grocery": 4, "Amazon": 1, "Travel": 3,
-        "Gas": 1, "Streaming": 1, "Drugstore": 1, "Home Improv": 1, "Everything Else": 1
+        "Dining": 4, "Grocery": 4, "Travel": 3, "Everything Else": 1
       },
       "rewardNotes": {
         "Dining": "global", "Grocery": "US only", "Travel": "airline only"
@@ -32,8 +31,7 @@
       "annualFee": 895,
       "foreignTransactionFee": false,
       "rewardRates": {
-        "Dining": 1, "Grocery": 1, "Amazon": 1, "Travel": 5,
-        "Gas": 1, "Streaming": 1, "Drugstore": 1, "Home Improv": 1, "Everything Else": 1
+        "Travel": 5, "Everything Else": 1
       },
       "rewardNotes": {
         "Travel": "Airline, AmEx travel's airline and hotel"
@@ -61,8 +59,7 @@
       "annualFee": 895,
       "foreignTransactionFee": false,
       "rewardRates": {
-        "Dining": 1, "Grocery": 1, "Amazon": 1, "Travel": 5,
-        "Gas": 1, "Streaming": 1, "Drugstore": 1, "Home Improv": 1, "Everything Else": 1
+        "Travel": 5, "Everything Else": 1
       },
       "rewardNotes": {
         "Travel": "AmEx travel's airline and hotel"
@@ -88,8 +85,7 @@
       "annualFee": 550,
       "foreignTransactionFee": false,
       "rewardRates": {
-        "Dining": 7, "Grocery": 3, "Amazon": 3, "Travel": 14,
-        "Gas": 3, "Streaming": 3, "Drugstore": 3, "Home Improv": 3, "Everything Else": 3
+        "Dining": 7, "Travel": 14, "Everything Else": 3
       },
       "rewardNotes": {
         "Travel": "Hilton 14x, car rental 7x, airline 7x"
@@ -112,8 +108,7 @@
       "annualFee": 0,
       "foreignTransactionFee": false,
       "rewardRates": {
-        "Dining": 5, "Grocery": 5, "Amazon": 3, "Travel": 7,
-        "Gas": 5, "Streaming": 3, "Drugstore": 3, "Home Improv": 3, "Everything Else": 3
+        "Dining": 5, "Grocery": 5, "Gas": 5, "Travel": 7, "Everything Else": 3
       },
       "rewardNotes": {
         "Dining": "US only", "Grocery": "US supermarkets only",
@@ -130,8 +125,7 @@
       "annualFee": 150,
       "foreignTransactionFee": false,
       "rewardRates": {
-        "Dining": 2, "Grocery": 2, "Amazon": 1, "Travel": 2,
-        "Gas": 1, "Streaming": 1, "Drugstore": 1, "Home Improv": 1, "Everything Else": 1
+        "Dining": 2, "Grocery": 2, "Travel": 2, "Everything Else": 1
       },
       "rewardNotes": {"Travel": "Delta airline"},
       "defaultPerks": [
@@ -148,8 +142,7 @@
       "annualFee": 150,
       "foreignTransactionFee": false,
       "rewardRates": {
-        "Dining": 1, "Grocery": 1, "Amazon": 1, "Travel": 2,
-        "Gas": 1, "Streaming": 1, "Drugstore": 1, "Home Improv": 1, "Everything Else": 1
+        "Travel": 2, "Everything Else": 1
       },
       "rewardNotes": {"Travel": "Delta airline"},
       "defaultPerks": [
@@ -166,8 +159,7 @@
       "annualFee": 0,
       "foreignTransactionFee": true,
       "rewardRates": {
-        "Dining": 2, "Grocery": 2, "Amazon": 2, "Travel": 2,
-        "Gas": 2, "Streaming": 2, "Drugstore": 2, "Home Improv": 2, "Everything Else": 2
+        "Everything Else": 2
       },
       "rewardNotes": {},
       "defaultPerks": [],
@@ -181,8 +173,7 @@
       "annualFee": 95,
       "foreignTransactionFee": false,
       "rewardRates": {
-        "Dining": 3, "Grocery": 3, "Amazon": 1, "Travel": 5,
-        "Gas": 1, "Streaming": 3, "Drugstore": 1, "Home Improv": 1, "Everything Else": 1
+        "Dining": 3, "Grocery": 3, "Travel": 5, "Streaming": 3, "Everything Else": 1
       },
       "rewardNotes": {
         "Grocery": "online, except Target, Walmart, and wholesales",
@@ -201,8 +192,7 @@
       "annualFee": 795,
       "foreignTransactionFee": false,
       "rewardRates": {
-        "Dining": 3, "Grocery": 1, "Amazon": 1, "Travel": 8,
-        "Gas": 1, "Streaming": 1, "Drugstore": 1, "Home Improv": 1, "Everything Else": 1
+        "Dining": 3, "Travel": 8, "Everything Else": 1
       },
       "rewardNotes": {"Travel": "Chase travel 8x, airline/hotel 4x"},
       "defaultPerks": [
@@ -226,8 +216,7 @@
       "annualFee": 0,
       "foreignTransactionFee": false,
       "rewardRates": {
-        "Dining": 1, "Grocery": 1, "Amazon": 1, "Travel": 2,
-        "Gas": 2, "Streaming": 1, "Drugstore": 1, "Home Improv": 1, "Everything Else": 1
+        "Travel": 2, "Gas": 2, "Everything Else": 1
       },
       "rewardNotes": {"Travel": "public transportation only", "Gas": "gas station"},
       "defaultPerks": [],
@@ -241,8 +230,7 @@
       "annualFee": 0,
       "foreignTransactionFee": true,
       "rewardRates": {
-        "Dining": 2, "Grocery": 1, "Amazon": 1, "Travel": 1,
-        "Gas": 2, "Streaming": 1, "Drugstore": 1, "Home Improv": 1, "Everything Else": 1
+        "Dining": 2, "Gas": 2, "Everything Else": 1
       },
       "rewardNotes": {},
       "defaultPerks": [],
@@ -256,8 +244,7 @@
       "annualFee": 0,
       "foreignTransactionFee": true,
       "rewardRates": {
-        "Dining": 1.5, "Grocery": 1.5, "Amazon": 1.5, "Travel": 1.5,
-        "Gas": 1.5, "Streaming": 1.5, "Drugstore": 1.5, "Home Improv": 1.5, "Everything Else": 1.5
+        "Everything Else": 1.5
       },
       "rewardNotes": {},
       "defaultPerks": [],
@@ -271,8 +258,7 @@
       "annualFee": 95,
       "foreignTransactionFee": false,
       "rewardRates": {
-        "Dining": 1, "Grocery": 1, "Amazon": 1, "Travel": 3,
-        "Gas": 1, "Streaming": 1, "Drugstore": 1, "Home Improv": 1, "Everything Else": 1
+        "Travel": 3, "Everything Else": 1
       },
       "rewardNotes": {"Travel": "travel, shipping, Internet, phone service"},
       "defaultPerks": [],
@@ -286,8 +272,7 @@
       "annualFee": 0,
       "foreignTransactionFee": true,
       "rewardRates": {
-        "Dining": 3, "Grocery": 1, "Amazon": 1, "Travel": 1,
-        "Gas": 1, "Streaming": 1, "Drugstore": 3, "Home Improv": 1, "Everything Else": 1
+        "Dining": 3, "Drugstore": 3, "Everything Else": 1
       },
       "rewardNotes": {"Dining": "always 3x", "Drugstore": "always 3x"},
       "defaultPerks": [],
@@ -301,8 +286,7 @@
       "annualFee": 0,
       "foreignTransactionFee": false,
       "rewardRates": {
-        "Dining": 1, "Grocery": 1, "Amazon": 1, "Travel": 1,
-        "Gas": 1, "Streaming": 1, "Drugstore": 1, "Home Improv": 1, "Everything Else": 1
+        "Everything Else": 1
       },
       "rewardNotes": {},
       "defaultPerks": [],
@@ -316,8 +300,7 @@
       "annualFee": 0,
       "foreignTransactionFee": false,
       "rewardRates": {
-        "Dining": 3, "Grocery": 1, "Amazon": 1, "Travel": 2,
-        "Gas": 1, "Streaming": 1, "Drugstore": 1, "Home Improv": 1, "Everything Else": 1
+        "Dining": 3, "Travel": 2, "Everything Else": 1
       },
       "rewardNotes": {"Travel": "hotel, airline"},
       "defaultPerks": [
