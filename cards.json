@@ -105,6 +105,24 @@
       "color": "#1A1A2E"
     },
     {
+      "id": "amex_hilton_honors",
+      "name": "Hilton Honors",
+      "issuer": "American Express",
+      "network": "Amex",
+      "annualFee": 0,
+      "foreignTransactionFee": false,
+      "rewardRates": {
+        "Dining": 5, "Grocery": 5, "Amazon": 3, "Travel": 7,
+        "Gas": 5, "Streaming": 3, "Drugstore": 3, "Home Improv": 3, "Everything Else": 3
+      },
+      "rewardNotes": {
+        "Dining": "US only", "Grocery": "US supermarkets only",
+        "Gas": "US only", "Travel": "Hilton 7x"
+      },
+      "defaultPerks": [],
+      "color": "#003366"
+    },
+    {
       "id": "amex_delta_gold",
       "name": "Delta SkyMiles Gold",
       "issuer": "American Express",
