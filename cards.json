@@ -41,9 +41,9 @@
         {"name": "Digital Entertainment Credit", "value": "$25/mo", "frequency": "Monthly"},
         {"name": "Lululemon Credit", "value": "$75/qtr", "frequency": "Quarterly"},
         {"name": "Resy Dining Credit", "value": "$100/qtr", "frequency": "Quarterly"},
-        {"name": "FHR / Hotel Collection Credit", "value": "$300/half", "frequency": "Semi-Annual"},
+        {"name": "FHR(1nights)/THC(2nights) Credit", "value": "$300/half", "frequency": "Semi-Annual"},
         {"name": "Saks Fifth Avenue Credit", "value": "$50/half", "frequency": "Semi-Annual"},
-        {"name": "Airline Fee Credit", "value": "$200/yr", "frequency": "Card Annual"},
+        {"name": "Airline Fee Credit", "value": "$200/yr", "frequency": "Calendar Annual"},
         {"name": "Walmart+ Membership", "value": "$155/yr", "frequency": "Card Annual"},
         {"name": "CLEAR Membership", "value": "$209/yr", "frequency": "Card Annual"},
         {"name": "Equinox Credit", "value": "$300/yr", "frequency": "Card Annual"},
@@ -65,12 +65,13 @@
         "Travel": "AmEx travel's airline and hotel"
       },
       "defaultPerks": [
+        {"name": "FHR(1nights)/THC(2nights) Credit", "value": "$300/half", "frequency": "Semi-Annual"},
+        {"name": "ChatGPT for Biz", "value": "$300/yr", "frequency": "Calendar Annual"},
+        {"name": "Airline Fee Credit", "value": "$200/yr", "frequency": "Calendar Annual"},
+        {"name": "Dell Credit", "value": "$150/yr", "frequency": "Calendar Annual"},
         {"name": "Wireless Telephone Credit", "value": "$10/mo", "frequency": "Monthly"},
         {"name": "Hilton Credit (Hilton for Business)", "value": "$50/qtr", "frequency": "Quarterly"},
         {"name": "Indeed Credit", "value": "$90/qtr", "frequency": "Quarterly"},
-        {"name": "FHR / Hotel Collection Credit", "value": "$300/half", "frequency": "Semi-Annual"},
-        {"name": "Airline Fee Credit", "value": "$200/yr", "frequency": "Card Annual"},
-        {"name": "Dell Credit", "value": "$150/yr", "frequency": "Card Annual"},
         {"name": "Adobe Credit", "value": "$150/yr", "frequency": "Card Annual"},
         {"name": "CLEAR Membership", "value": "$179/yr", "frequency": "Card Annual"},
         {"name": "Global Entry / TSA PreCheck", "value": "$100", "frequency": "One-Time"}
