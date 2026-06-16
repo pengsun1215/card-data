@@ -181,7 +181,7 @@
         "Travel": "Chase travel 5x, other travel 2x"
       },
       "defaultPerks": [
-        {"name": "Hotel Credit (Chase Travel)", "value": "$50/yr", "frequency": "Card Annual"}
+        {"name": "Hotel Credit (Chase Travel)", "value": "$100/yr", "frequency": "Card Annual"}
       ],
       "color": "#003087"
     },
